@@ -1,0 +1,26 @@
+
+	html, body {margin:0;
+    padding:0 }
+
+	.background{height: 0; 
+		width:100%;
+		background-color:#503050}
+
+
+	.h1{font-family: 'Playfair Display', serif;
+	  height: 70px;
+	  font-size: 50px; 
+		background-color:#FFDEAD
+	}
+	
+	figure{}
+
+	.text1{margin: 0;background-color:#FFEFD5}
+	.text2{margin: 0;background-color:#FAEBD7}
+	.text3{margin: 0;background-color:#FAF0E6}
+    .img1{background-color: #503040}
+    .img11{margin-left: 0px;background-color: #503040} 
+	.img2{background-color: #9F6080}
+	.img3{background-color: #B7879F}
+	.img4{background-color: #CFAFBF}
+	.img5{background-color: #E7D7Df}
